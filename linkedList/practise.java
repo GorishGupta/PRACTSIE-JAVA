@@ -154,8 +154,8 @@ public class practise {
       //ll.addmiddle(9,2);
        //ll.removeFirst();
     //    ll.removeLast();
-  // ll.iterativeSearch(3);
-  System.out.println(ll.recursion(5));
+  ll.iterativeSearch(3);
+  //System.out.println(ll.recursion(5));
         ll.display();
     }
 }

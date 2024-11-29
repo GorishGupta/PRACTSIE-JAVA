@@ -255,7 +255,7 @@ public class all33Questions {
             System.out.println();
            }
            System.out.println();
-            System.out.println();
+            System.out.println("16");
 
 }
         public static void value7(int n) {

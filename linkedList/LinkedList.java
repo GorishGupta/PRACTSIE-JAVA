@@ -172,7 +172,7 @@ public class LinkedList {
         ll.addFirst(1);
         ll.addLast(3);
         ll.addLast(4);
-        ll.add(4,5);
+        ll.add(3,5);
         //ll.removeFirst();
         //ll.removeLast();
     //    System.out.println(ll.iterativeSearch(5));
@@ -180,7 +180,7 @@ public class LinkedList {
      //   System.out.println(ll.recursion(10));
         
      //   ll.reverseList();
-     ll.removeMiddle(3);
+     //ll.removeMiddle(3);
           ll.display();    
        // System.out.println(ll.size);
     }
